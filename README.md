@@ -6,17 +6,17 @@ Hi there, I'm Ayushi 👋
 I'm a Computer Vision and ML enthusiast 💻, and a budding painter 🎨!
 </h2> 
 
-🚀 Welcome to my Profile ☕
+🚀 Welcome to My World ☕
 
-Pour yourself a cup of curiosity and take a seat at the intersection of creativity and technology. 🧠🤖
+Grab a coffee and let me give you a glimpse of what fuels my passion: the dynamic blend of mind and machine. 🧠🤖
 
 🌌 Exploring the Boundaries of AI and Computer Vision
 
 In a world where data is the new currency and algorithms are the painters of the digital canvas, I'm on a quest to push the boundaries of what's possible. I revel in those fascinating discussions where AI, computer vision, and creative thoughts come together. 🤯
 
-🤖 Challenging Models with Limited Data
+🤖 Challenging Models with Limited Supervision and Multi-modal Data
 
-They say that necessity is the mother of invention. And for me, the challenge of training models with limited data is where the real innovation happens. I believe in teaching algorithms to perform like artists, interpreting data from diverse modalities, and striving to make them as close to human cognition as possible. 🎨
+They say that necessity is the mother of invention. And for me, the challenge of training multi-modal models with limited supervision is the key to the revolution in AI. I believe in teaching algorithms to interpret data from diverse modalities, and striving to make them as close to human cognition as possible. 🎨
 
 🛠️ Join Me on this Incredible Journey
 
