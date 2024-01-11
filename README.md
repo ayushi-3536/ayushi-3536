@@ -18,6 +18,6 @@ In a world where data is the new currency and algorithms are the painters of the
 
 They say that necessity is the mother of invention. And for me, the challenge of training multi-modal models with limited supervision is the key to the revolution in AI. I believe in teaching algorithms to interpret data from diverse modalities, and striving to make them as close to human cognition as possible. 🎨
 
-🛠️ Join Me on this Incredible Journey
+🛠️ Join Me on this journey
 
 The road to creating AI that thinks and sees like a human is long, winding, and full of surprises. Let's embark on this incredible journey together! Connect with me on <a href="https://www.linkedin.com/in/ayushi-sharma-599a1812a/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="16px"/></a>, and let's make the digital world more creative, more human, and more extraordinary. 👨‍💻👩‍💻 🎨✨
