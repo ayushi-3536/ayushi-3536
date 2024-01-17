@@ -6,7 +6,7 @@ Hi there, I'm Ayushi 👋
 I'm a Computer Vision and ML enthusiast 💻, and a budding painter 🎨!
 </h2> 
 
-🚀 Welcome to My World ☕
+Welcome to My World
 
 Grab a coffee and let me give you a glimpse of what fuels my passion 🧠🤖
 
